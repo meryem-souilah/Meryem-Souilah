@@ -3,7 +3,7 @@
 **Final-year engineering student at EHTP (Casablanca) · Data Science & AI**
 I build end-to-end data and AI solutions: data pipelines, machine learning models and generative AI applications, from the first prototype to a working service. I also have a strong background in geospatial data.
 
-📍 Casablanca, Morocco · Looking for a final-year internship (PFE) starting February 2027
+Looking for a final-year internship (PFE) starting February 2027
 📫 [m.meryem.souilah@gmail.com](mailto:m.meryem.souilah@gmail.com) · [LinkedIn](https://linkedin.com/in/souilah-meryem)
 
 ---
