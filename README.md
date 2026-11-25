@@ -1,6 +1,6 @@
 # Hi there, I'm Meryem Souilah 👋
 
-### 🎓 Geo-Data Engineer & GIS Developer
+### 🎓 Geo-Data Engineer 
 Eléve ingénieur en Geo-Data. Passionnée par les bases de données spatiales, le développement full-stack géo, l'ETL géospatial et le Machine Learning appliqué au territoire.
 
 ---
